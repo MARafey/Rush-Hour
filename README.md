@@ -1,1 +1,1 @@
-# Rush-Hour-
+# Rush Hour Game
